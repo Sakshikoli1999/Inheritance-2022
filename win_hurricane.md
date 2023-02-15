@@ -37,7 +37,7 @@ VJTI-ki-RASOI
 *VJTI-ki-RASOI* will help our college students by our delicious,clean and pocket friendly mess. All this is done with the help of a user-friendly, easy and robust software system..
 The website focuses on Automated mess format so that students can have 24/7 access to various functions such as leave.
 Entire mess management and calculations are done manually till date, it is Time Consuming 
-and requires hardwork and manpower.We have made this website to make the offline mess work convinient and to reduce the manwork
+and requires hardwork and manpower.We have made this website to make the offline mess work convenient and to reduce the manwork
 
 
 
